@@ -9,4 +9,4 @@ import tkinter as tk
 raiz= tk.Tk()
 raiz.title("primera ventana")
 raiz.mainloop()
-
+HOLA MUNDO
